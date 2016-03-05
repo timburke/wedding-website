@@ -9,6 +9,7 @@ body
 	background-image: url("../img/trees_background.jpg");
 	background-clip: content-box;
 	background-position: center;
+
 	/*background-repeat: no-repeat;*/
 }
 
@@ -23,6 +24,8 @@ div.outercontainer
 	margin-bottom: 20px;
 	padding: 0px;
 
+	min-width: 700px;
+
 	background-color: rgba(255, 255, 255, 0.7);
 
 	border-style: solid;
@@ -33,12 +36,19 @@ div.outercontainer
 div.callout
 {
 	height: 400px;
+	background-image: url("../img/banner/engagement.jpg");
+	background-position: center;
+	background-size: cover;
 }
 
-div.navigation
+.navbar-custom
 {
-	height: 50px;
-	background-color: rgb(127, 127, 127);
+	border-radius: 0 !important;
+}
+
+a.navbar-custom
+{
+	color: #000000;
 }
 
 div.content

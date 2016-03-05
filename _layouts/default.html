@@ -19,12 +19,21 @@
     <body>
 	    <div class="outercontainer">
 	    	<div class="callout">
-
 	    	</div>
-	    	<div class="navigation">
-	    	</div>
+	    	<nav class="navbar">
+                <ul class="nav navbar-nav navbar-custom">
+                    <li class="active nav-item"><a class="navbar-custom" href="/">HOME</a></li>
+                    <li class="nav-item"><a class="navbar-custom" href="venue.html">VENUE</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle navbar-custom" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">TRAVEL<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a class="navbar-custom" href="venue.html">TEST</a></li>
+                            <li><a class="navbar-custom" href="venue.html">TEST 2</a></li>
+                        </ul>
+                </ul>
+	    	</nav>
 	    	<div class="content">
-            {{page.content}}
+            {{page.content}}    
 	    	</div>
 	    </div>
 
