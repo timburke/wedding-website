@@ -60,6 +60,14 @@ div.content
 	padding-bottom: 20px;
 
 	font-size: 16px;
+	line-height: 180%;
+
+}
+
+div.section_separator
+{
+	padding-bottom: 30px;
+	clear: both;
 }
 
 
