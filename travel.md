@@ -10,7 +10,7 @@ layout: default
 
 All of our wedding events take place on the Peninsula of the San Francisco Bay Area between the towns of Mountain View (where Google is located) and Palo Alto (where Stanford is located).  This is close to San Francisco but still about 45 minutes to an hour drive away.  Staying in San Francisco is not recommended as a convenient option.  We have two hotel blocks very close to our venue for people to stay in if they want.
 
-<em>The map embedded to the right shows our venue in green, hotels in blue and nearby airports in red.</em>
+<span style="font-weight: bold;">The map embedded to the right shows our venue in green, hotels in blue and nearby airports in red.</span>
 
 San Francisco is in the upper left-hand corner.  Oakland is in the upper right-hand corner and San Jose is in the lower right-hand corner.
 

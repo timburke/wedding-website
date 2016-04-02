@@ -18,19 +18,19 @@ div.outercontainer
 	-webkit-box-shadow: 0px 0px 5px 6px rgba(0,0,0,0.2);
 	-moz-box-shadow: 0px 0px 5px 6px rgba(0,0,0,0.2);
 	box-shadow: 0px 0px 5px 6px rgba(0,0,0,0.2);
-	margin-right: 5%;
-	margin-left: 5%;
+	margin-right: auto;
+	margin-left: auto;
 	margin-top: 50px;
 	margin-bottom: 20px;
 	padding: 0px;
-
-	min-width: 700px;
 
 	background-color: rgba(255, 255, 255, 0.7);
 
 	border-style: solid;
 	border-color: rgba(0,0,0, 0.5);
 	border-width: 1px;
+
+	width: 1200px;
 }
 
 div.callout
@@ -61,7 +61,6 @@ div.content
 
 	font-size: 16px;
 	line-height: 180%;
-
 }
 
 div.section_separator
@@ -103,4 +102,18 @@ img.left-inset
   border: 1px; 
   border-style: solid;
   width: 400px;
+}
+
+div.content_row h2
+{
+	margin-top: 0px;
+}
+
+div.galleria
+{
+	width: 800px;
+	height: 800px;
+
+	margin-left: auto;
+	margin-right: auto;
 }

@@ -3,10 +3,10 @@ title: Wedding Ceremony
 layout: default
 ---
 
-<div style="width: 100%; display: table;">
+<div style="width: 100%; display: table;" class="content_row">
     <div style="display: table-row">
         <div style="width: 50%; display: table-cell;"> 
-        	<img class="left-inset" src="img/saumya_headshot.jpg" /> 
+        	<img class="left-inset" src="img/indian_wedding.jpg" /> 
         </div>
         <div style="display: table-cell; vertical-align: top;">
         <h2>Indian Wedding</h2>
@@ -14,7 +14,7 @@ layout: default
 
 <p>It is traditional to celebrate this ceremony (and generally any happy life event) by “making your mouth sweet,” so there will be Indian sweets and snacks after the Indian ceremony. </p>
 
-<p>(Guests are invited to enjoy the snacks and play lawn games while the wedding party changes clothes between ceremonies.)</p>
+<p><em>(Guests are invited to enjoy the snacks and play lawn games while the wedding party changes clothes between ceremonies.)</em></p>
 
         </div>
     </div>
@@ -22,10 +22,10 @@ layout: default
 
 <span class="spacer" style="height: 40px;" />
 
-<div style="width: 100%; display: table;">
+<div style="width: 100%; display: table;" class="content_row">
     <div style="display: table-row">
         <div style="width: 50%; display: table-cell;"> 
-        	<img class="left-inset" src="img/saumya_headshot.jpg" /> 
+        	<img class="left-inset" src="img/american_wedding.jpg" /> 
         </div>
         <div style="display: table-cell; vertical-align: top;">
         <h2>American Wedding</h2>

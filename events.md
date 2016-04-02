@@ -9,30 +9,34 @@ We appreciate that a lot of our guests are visiting from out of town, and we wou
 
 <span class="spacer" />
 
-<div style="width: 100%; display: table;">
+<div style="width: 100%; display: table;" class="content_row">
     <div style="display: table-row">
         <div style="width: 50%; display: table-cell;">
         	<h3>Friday, June 17th, 2016<br>
-			Castro Street, Mountain View</h3>
+			Castro Street, Mountain View<br>
+            ~ 9:00 pm
+            </h3>
         </div>
         <div style="display: table-cell;">
 	        <h2>Drinks with Friends</h2>
 
-If you’re in town by Friday night, come out for drinks with us in downtown Mountain View! We’ll meet at 9pm and go out to the bars on Castro Street (which is about 3 miles away from the hotels we’ve recommended). 
-Check back for an update on where to meet - we’ll post a bar and address a few days beforehand.
+<p>If you’re in town by Friday night, come out for drinks with us in downtown Mountain View! We’ll meet at 9pm and go out to the bars on Castro Street (which is about 3 miles away from the hotels we’ve recommended). 
+Check back for an update on where to meet - we’ll post a bar and address a few days beforehand.</p>
 
-(Bar options include, in order of preference: Cascal (tapas, I really wanna try this place), Bierhaus, Agave (the Mexican place we checked out for rehearsal dinner options - has a nice patio), Molly Magees (Irish pub)... and there’s a wine cellar place right at the caltrain station. I’d be happy to expand our search on foot one evening and do some testing before we post the update
+<p>(Bar options include, in order of preference: Cascal (tapas, I really wanna try this place), Bierhaus, Agave (the Mexican place we checked out for rehearsal dinner options - has a nice patio), Molly Magees (Irish pub)... and there’s a wine cellar place right at the caltrain station. I’d be happy to expand our search on foot one evening and do some testing before we post the update</p>
         </div>
     </div>
 </div>
 
 <span class="spacer" />
 
-<div style="width: 100%; display: table;">
+<div style="width: 100%; display: table;" class="content_row">
     <div style="display: table-row">
         <div style="width: 50%; display: table-cell;">
         	<h3>Saturday, June 18th, 2016 <br>
-    		Rengstorff House, Mountain View</h3>
+    		Rengstorff House, Mountain View<br>
+            2:00 pm
+            </h3>
         </div>
         <div style="display: table-cell;">
 	        <h2>Wedding Ceremonies &amp; Reception</h2>
@@ -51,6 +55,23 @@ We will have two wedding ceremonies followed by a reception and dancing, as foll
 
         <h3>Location</h3>
         All of our events on the day of the wedding will take place at the Rengstorff House. Please refer to the “Venue” tab above for more information on the location, as well as considerations such as parking and weather.
+        </div>
+    </div>
+</div>
+
+<span class="spacer" />
+
+<div style="width: 100%; display: table;" class="content_row">
+    <div style="display: table-row">
+        <div style="width: 50%; display: table-cell;">
+            <h3>Sunday, June 19th, 2016<br>
+            Palo Alto area (exact location TBA)<br>
+            ~ 10:00 am<br>
+            </h3>
+        </div>
+        <div style="display: table-cell;">
+            <h2>Picnic Brunch</h2>
+            If you are still in town on Sunday morning, please join us for an informal picnic brunch at a local park (exact location TBA). In addition to a light brunch spread, we’ll have a frisbee and soccer ball out. There is no schedule for this morning - it’s just a chance to enjoy the park on a sunny summer morning and for us to spend a little more time with our out-of-town guests before they leave. 
         </div>
     </div>
 </div>

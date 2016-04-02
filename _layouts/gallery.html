@@ -15,6 +15,8 @@
         <link rel="stylesheet" href="css/main.css">
 
         <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+        <script src="js/vendor/jquery-1.11.2.min.js"></script>
+        <script src="js/galleria-1.4.2.min.js"></script>
     </head>
     <body>
 	    <div class="outercontainer">
@@ -41,12 +43,13 @@
                         </ul>
                     </li>
                     <li class="nav-item"><a class="navbar-custom" href="registry.html">Registry</a></li>
+                    <li class="nav-item"><a class="navbar-custom" href="music.html">Suggest Music</a></li>
                     <li class="nav-item"><a class="navbar-custom" href="pictures.html">Photo Gallery</a></li>
                     <li class="nav-item"><a class="navbar-custom" href="rsvp.html">RSVP</a></li>
                 </ul>
 	    	</nav>
 	    	<div class="content">
-            {{page.content | markdownify}}    
+            {{page.content}}    
 	    	</div>
 	    </div>
 

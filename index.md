@@ -17,7 +17,7 @@ Welcome to our wedding website! We are very excited to have you join us for our 
 
 <span class="spacer" />
 
-<div style="width: 100%; display: table;">
+<div style="width: 100%; display: table;" class="content_row">
     <div style="display: table-row">
         <div style="width: 50%; display: table-cell;"> 
         	<img class="left-inset" src="img/engagement_photo.jpg" /> 
@@ -31,7 +31,7 @@ We met almost five years ago, early in our graduate school years at Stanford. Th
 
 <span class="spacer" />
 
-<div style="width: 100%; display: table;">
+<div style="width: 100%; display: table;" class="content_row">
     <div style="display: table-row">
         <div style="width: 50%; display: table-cell;"> 
         	<img class="left-inset" src="img/saumya_headshot.jpg" /> 
@@ -45,7 +45,7 @@ I was born in Mumbai, India. When I was seven years old, my father’s job moved
 
 <span class="spacer" />
 
-<div style="width: 100%; display: table;">
+<div style="width: 100%; display: table;" class="content_row">
     <div style="display: table-row">
         <div style="width: 50%; display: table-cell; vertical-align: top;">
         	<img class="left-inset" src="img/tim_headshot.jpg" /> 
