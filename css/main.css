@@ -54,8 +54,8 @@ a.navbar-custom
 
 div.content
 {
-	padding-left: 10px;
-	padding-right: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
 	padding-top: 20px;
 	padding-bottom: 20px;
 
@@ -70,17 +70,37 @@ div.section_separator
 	clear: both;
 }
 
+div.centered
+{
+	text-align: center;
+}
 
+div.large
+{
+	font-size: 28px;
+	font-weight: bold;
+}
 
+div.left
+{
+	width: 50%;
+}
 
+div.right
+{
+	width: 50%;
+}
 
+span.spacer
+{
+	display: block;
+	height: 60px;
+}
 
-
-
-
-
-
-
-
-
-
+img.left-inset 
+{
+  margin-left: 100px; 
+  border: 1px; 
+  border-style: solid;
+  width: 400px;
+}
