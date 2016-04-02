@@ -29,7 +29,7 @@ layout: default
         </div>
         <div style="display: table-cell; vertical-align: top;">
         <h2>American Wedding</h2>
-<p>We will then have an American wedding ceremony. After the wedding party enters in a Processional, a celebrant will start the ceremony and call upon Readers to do readings from the Bible. Tim and Saumya will exchange vows, and wedding rings to symbolize their union. Finally, the celebrant together with the congregation will bless the couple. And this will conclude our wedding ceremonies!</p>
+<p>We will then have an American wedding ceremony. After the wedding party enters in a Processional, a celebrant will start the ceremony and call upon Readers to do readings from the Bible. Tim and Saumya will exchange vows and wedding rings to symbolize their union. Finally, the celebrant together with the congregation will bless the couple. And this will conclude our wedding ceremonies!</p>
 
         </div>
     </div>

@@ -22,8 +22,6 @@ We appreciate that a lot of our guests are visiting from out of town, and we wou
 
 <p>If you’re in town by Friday night, come out for drinks with us in downtown Mountain View! We’ll meet at 9pm and go out to the bars on Castro Street (which is about 3 miles away from the hotels we’ve recommended). 
 Check back for an update on where to meet - we’ll post a bar and address a few days beforehand.</p>
-
-<p>(Bar options include, in order of preference: Cascal (tapas, I really wanna try this place), Bierhaus, Agave (the Mexican place we checked out for rehearsal dinner options - has a nice patio), Molly Magees (Irish pub)... and there’s a wine cellar place right at the caltrain station. I’d be happy to expand our search on foot one evening and do some testing before we post the update</p>
         </div>
     </div>
 </div>

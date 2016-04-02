@@ -13,6 +13,8 @@ layout: default
 				<p>The wedding and reception will be located at the historic Rengstorff House located in Moutain View.  Rengstorff House was built in 1864 and is the oldest house in Mountain View.  It is surrounded on three sides by beautiful green spaces and located in the heart of Shoreline Park.  </p>
 
 				<p>The wedding will take place entirely outdoors with events on all three sides of the Rengstorff House, followed by a reception and dinner in a shaded garden area to the right of the house.</p>
+
+                <p>More information on the Rengstorff House can be found <a target="_blank" href="http://r-house.org/">here</a>.</p>
         </div>
     </div>
 </div>
@@ -37,6 +39,6 @@ layout: default
 
 - The venue is entirely outdoors with the wedding and reception starting in mid-afternoon through the evening.  California evenings can get a bit chilly so guests should bring a light evening jacket.  Weather during the day should be expected to be around 80 degrees and sunny.  There will be plenty of water and soft drinks provided throughout so that people stay hydrated.
 
-- There is limited parking directly at the Rengstorff House, and guests are advised to carpool. There is additional parking at the golf course to one side of the house and the waterfront restaurant on the other side of the house. Please view the map above for the specific locations and distances.
+- There is limited parking directly at the Rengstorff House, and guests are advised to carpool. There is additional parking at Shoreline Lake Boathouse and at the Shoreline Golf Links on eiher side of the Rengstorff House grounds. Please view the map above for the specific locations and distances.
 
 <span class="spacer" />
