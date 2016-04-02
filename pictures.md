@@ -8,20 +8,26 @@ layout: gallery
 </div>
 
 <script type="text/javascript">
+	Galleria.ready(function(options) {
+		this.push({image: 'img/gallery/converted/couple_1.jpg'});
+	});
+	
 	var data = [
 	    {
-	        image: 'img/saumya_headshot.jpg',
+	        image: 'img/gallery/converted/camping_1.jpg',
 	        title: "Saumya's Head",
 	        description: "This is a description of Saumya's head",
 	    },
 
 	    {
-	        image: 'img/tim_headshot.jpg',
+	        image: 'img/gallery/converted/camping_2.jpg',
 	        title: "Tim's Head",
 	        description: "This is a description of Tim's head",
 	    },
 	];
 
-	Galleria.loadTheme('js/themes/classic/galleria.classic.min.js');
+	Galleria.loadTheme('js/themes/classic/galleria.classic.js');
+	Galleria.configure({_toggleInfo: false});
+
     Galleria.run('.galleria', {dataSource: data});
 </script>
