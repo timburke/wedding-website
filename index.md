@@ -3,9 +3,9 @@ title: Tim and Saumya's Wedding
 layout: default
 ---
 
-<div class="large centered">
+<div class="large centered cursive">
 	<span style="display: block;">Tim &amp; Saumya</span>
-	<span style="display: block;">6.18.2016</span>
+	<span style="display: block;">6 . 18 . 2016</span>
 	<span style="display: block;">Mountain View, CA</span>
 </div>
 
@@ -23,7 +23,7 @@ Welcome to our wedding website! We are very excited to have you join us for our 
         	<img class="left-inset" src="img/engagement_photo.jpg" /> 
         </div>
         <div style="display: table-cell; vertical-align: top;">
-        <h2>We Decided to Tie the Knot!!</h2>
+        <h2>We're Tieing the Knot!!</h2>
 The first time we met was at an ice cream social hosted by mutual friends. Yes, really!
 We met almost five years ago, early in our graduate school years at Stanford. Through group dinners, we discovered that we had a lot in common - a love of world travel, Latin music, and hikes in beautiful landscapes, to name a few. (You’ll see a lot of pictures of trees in our photo gallery.) Last spring, we spent a day in the Santa Cruz mountains and then took a walk along the beach where, at sunset, Tim proposed. We exchanged engagement rings as a token of our commitment to each other.
         </div>
