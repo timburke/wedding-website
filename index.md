@@ -23,6 +23,7 @@ Welcome to our wedding website! We are very excited to have you join us for our 
         	<img class="left-inset" src="img/engagement_photo.jpg" /> 
         </div>
         <div style="display: table-cell; vertical-align: top;">
+        <h2>We Decided to Tie the Knot!!</h2>
 The first time we met was at an ice cream social hosted by mutual friends. Yes, really!
 We met almost five years ago, early in our graduate school years at Stanford. Through group dinners, we discovered that we had a lot in common - a love of world travel, Latin music, and hikes in beautiful landscapes, to name a few. (You’ll see a lot of pictures of trees in our photo gallery.) Last spring, we spent a day in the Santa Cruz mountains and then took a walk along the beach where, at sunset, Tim proposed. We exchanged engagement rings as a token of our commitment to each other.
         </div>
@@ -52,7 +53,7 @@ I was born in Mumbai, India. When I was seven years old, my father’s job moved
         </div>
         <div style="display: table-cell;">
         <h2>About Tim</h2>
-INSERT CONTENT HERE!!!
+        I was born in Sacramento, California but my family moved to Washington State when I was two so I grew up in the Pacific Northwest surrounded by beautiful forests and mountains that I didn’t appreciate until I went to college in Houston and discovered that the rest of the world was very much not like this.  After studying physics and math, I joined the Peace Corps and moved to rural Panama for three years.  In addition to hiking and exploring I worked on building small-scale hydropower and community potable water systems.  I came back to the US in 2011 to start my PhD in Materials Science where I met Saumya through a mutual friend in my lab.  
         </div>
     </div>
 </div>
