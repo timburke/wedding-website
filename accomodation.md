@@ -1,5 +1,5 @@
 ---
-title: Accomodations
+title: Accommodations
 layout: default
 ---
 

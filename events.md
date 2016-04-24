@@ -41,7 +41,7 @@ Check back for an update on where to meet - we’ll post a bar and address a few
 
 We will have two wedding ceremonies followed by a reception and dancing, as follows:<br>
         2:00pm     Indian wedding ceremony <br>
-		3:00pm    Snacks &amp; lawn games <br>
+		3:00pm     Snacks &amp; lawn games <br>
         4:00pm     American wedding ceremony<br>
         5:00pm     Cocktail hour &amp; lawn games<br>
         6:00pm     Dinner reception<br>

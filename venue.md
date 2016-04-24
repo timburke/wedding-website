@@ -10,11 +10,12 @@ layout: default
         </div>
         <div style="display: table-cell;  vertical-align: top;">
 	        <h2>Venue Details</h2>
-				<p>The wedding and reception will be located at the historic Rengstorff House located in Moutain View.  Rengstorff House was built in 1864 and is the oldest house in Mountain View.  It is surrounded on three sides by beautiful green spaces and located in the heart of Shoreline Park.  </p>
+				<p>The wedding and reception will be held at the historic Rengstorff House in Mountain View. Nestled in Shoreline Park, the house is surrounded by beautiful green spaces and is near the waterfront of Shoreline Lake.</p>
+				
+                <p>Rengstorff House, originally built in 1864, is the oldest house in Mountain View.  After staying in the Rengstorff family for a century, it was bought by the City Council. It was eventually restored and moved to its current location, where it now serves as a public facility to hold exhibits and promote local history. More information on the Rengstorff House can be found <a target="_blank" href="http://r-house.org/">here</a>.</p>
 
-				<p>The wedding will take place entirely outdoors with events on all three sides of the Rengstorff House, followed by a reception and dinner in a shaded garden area to the right of the house.</p>
+                <p>The wedding will take place entirely outdoors on the grounds of the Rengstorff House, followed by a dinner reception in a shaded garden area off the house.</p>
 
-                <p>More information on the Rengstorff House can be found <a target="_blank" href="http://r-house.org/">here</a>.</p>
         </div>
     </div>
 </div>
@@ -28,17 +29,20 @@ layout: default
         </div>
         <div style="display: table-cell;  vertical-align: top;">
 	        <h2>Location</h2>
-				<p>Rengstorff House is located about a 10 minute drive from downtown Mountain View, quite near the Google corporate campus.  There are not good public transit options to get there however so renting a car or carpooling with someone else are the best ways to get there.</p>
+				<p>Rengstorff House is located about a 10 minute drive from downtown Mountain View, very close to the Google corporate campus and Shoreline Amphitheater.  There are no good public transit options to Shoreline Park, so renting a car or carpooling with other guests are the best ways to get there.</p>
+                <p>Address: 3070 N Shoreline Blvd, Mountain View, CA 94043</p>
         </div>
     </div>
 </div>
 
 <span class="spacer" style="height: 40px;"/>
 
-## Things to Keep In Mind
+<h2>Things to Keep In Mind</h2>
 
-- The venue is entirely outdoors with the wedding and reception starting in mid-afternoon through the evening.  California evenings can get a bit chilly so guests should bring a light evening jacket.  Weather during the day should be expected to be around 80 degrees and sunny.  There will be plenty of water and soft drinks provided throughout so that people stay hydrated.
+<p>
+- The venue is entirely outdoors with the wedding and reception starting mid-afternoon and going through the evening.  Weather during the day is expected to be around 80 degrees and sunny.  There will be plenty of water and soft drinks provided throughout the day to keep guests hydrated. However, California evenings can get a bit chilly so guests should bring a light evening jacket.</p>
 
-- There is limited parking directly at the Rengstorff House, and guests are advised to carpool. There is additional parking at Shoreline Lake Boathouse and at the Shoreline Golf Links on eiher side of the Rengstorff House grounds. Please view the map above for the specific locations and distances.
+<p>
+- There is limited parking directly at the Rengstorff House, and guests are advised to carpool. There is additional parking at Shoreline Lake Boathouse and at the Shoreline Golf Links on either side of the Rengstorff House grounds. Please view the map above for the specific locations of these additional parking options.</p>
 
 <span class="spacer" />
