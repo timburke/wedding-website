@@ -13,6 +13,7 @@ We appreciate that a lot of our guests are visiting from out of town, and we wou
     <div style="display: table-row">
         <div style="width: 50%; display: table-cell;">
         	<h3>Friday, June 17th, 2016<br>
+            St. Stephen's Green<br>
 			Castro Street, Mountain View<br>
             ~ 9:00 pm
             </h3>
@@ -20,8 +21,9 @@ We appreciate that a lot of our guests are visiting from out of town, and we wou
         <div style="display: table-cell;">
 	        <h2>Drinks with Friends</h2>
 
-<p>If you’re in town by Friday night, come out for drinks with us in downtown Mountain View! We’ll meet at 9pm and go out to the bars on Castro Street (which is about 3 miles away from the hotels we’ve recommended). 
-Check back for an update on where to meet - we’ll post a bar and address a few days beforehand.</p>
+<p>If you’re in town by Friday night, come out for drinks with us in downtown Mountain View! We’ll meet at 9pm and go out to the bars on Castro Street (which is about 3 miles away from the hotels we’ve recommended). </p>
+
+<p><span style="font-weight: bold;">Update: </span>We're meeting at <a href="https://goo.gl/maps/TYYYCu3KMYE2">St. Stephen's Green!</a></p>
         </div>
     </div>
 </div>
